@@ -1,0 +1,2 @@
+# cheatsheet
+General quick notes
