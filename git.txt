@@ -1,0 +1,13 @@
+//Pushing repositories using Git//
+-Create empty repository in GitHub
+-Clone repository in Git
+    git clone *repository url*
+-Open VS Code
+    code . 
+-Code away
+-Add files to git
+    git add .
+-Commit with short message
+    git commit -m"example commit"
+-Push files
+    git push
